@@ -1,0 +1,17 @@
+p{
+    color:darksalmon;
+}
+
+h1{color:aqua; 
+Font-size: 100px
+}
+
+#main-container{
+    background-color: grey;
+}
+
+.pClass{
+    font-size: 30px;
+    background-color: aquamarine;
+    color: yellowgreen;
+}
